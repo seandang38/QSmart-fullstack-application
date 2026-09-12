@@ -1,0 +1,4 @@
+.rocketride/
+backend/node_modules/
+backend/.env
+backend/data/*.json
